@@ -54,7 +54,7 @@ public class TestCase001 extends BaseTest {
 	@DataProvider(name = "logintestdata")
 	public Object[][] createData1() {
 	 return new Object[][] {
-		{"testing3mail.com","pass3893"},
+		{"testing3mail.com","pass355893"},
 		{"testing389389@gmail.com","ttttt344"},
 		{"tdfgr@gmail.com","goii333"},
 		{"testing389389@gmail.com","pass3893"},
